@@ -1,5 +1,5 @@
 # 🚦 Arduino Four-way Traffic lights simulation 🚥
-##### by Tran Nguyen
+
 
 ##### 11/08/2019
 ##### Project definition: 
